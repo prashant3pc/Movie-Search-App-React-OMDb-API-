@@ -1,0 +1,5 @@
+body, html {
+  background-color: #3b82f6; /* Tailwind's blue-500 */
+  margin: 0;
+  height: 100%;
+}
